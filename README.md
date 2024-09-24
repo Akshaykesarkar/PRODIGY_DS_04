@@ -1,2 +1,2 @@
 # PRODIGY_DS_04
-In this project, we analyzed social media data to understand public sentiment towards specific topics or brands. We cleaned the data, applied sentiment analysis, and visualized the results using charts and word clouds to gain insights into public opinion trends.
+In this project, we analyzed social media data to understand public sentiment towards specific topics or brands. First, we cleaned the data by removing URLs, mentions, and irrelevant text. Then, we applied sentiment analysis to classify messages as positive, negative, or neutral. Finally, we visualized the sentiment distribution using bar charts, word clouds, and other graphical representations to gain insights into public opinion trends.
